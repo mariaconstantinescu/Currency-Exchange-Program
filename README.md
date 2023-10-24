@@ -1,1 +1,2 @@
 # Project-4
+The Currency Exchange Program in C is an application designed to assist users in converting one currency to another. This program provides aninterface where users can input the amount of money they want to convert and select the currencies they are converting from and to. The program then calculates the converted amount using the current exchange rates and displays the result to the user.
