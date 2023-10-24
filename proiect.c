@@ -16,7 +16,7 @@ while(ok==1){
       scanf("%f",&val);
 
 
-  printf("\nFollowing are the Choices:"); //https://simple2code.com/c-programs/currency-conversion-program-in-c/
+  printf("\nFollowing are the Choices:"); 
   printf("\nEnter 1: RON");
   printf("\nEnter 2: EUR");
   printf("\nEnter 3: USD");
